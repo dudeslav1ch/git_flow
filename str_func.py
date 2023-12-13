@@ -1,4 +1,4 @@
-def str_func(string):
+def upper_all_letter(string):
     """
     Функция возвращает строку заглавными буквами
     """
